@@ -9,3 +9,4 @@ This repository contains a small project trying to predict the evolution of the 
 
 **Models-Case-Hospitalizations-Deaths.ipynb:** Contains the predictive models at 1, 3, and 5 weeks for the cases of hospitalizations and deaths. The first models only consider the previous weeks' COVID cases, while others integrate as well information about government restrictions, masks, and mean temperature of the month. 
 
+**Datasets folder:** Contains the datasets with hospitalizations, ICU and death cases. The dataset with the number of infections is missing and can be found in the following link: https://analisi.transparenciacatalunya.cat/Salut/Vigil-ncia-sindr-mica-d-infeccions-a-Atenci-Prim-r/44sy-txnv/about_data
