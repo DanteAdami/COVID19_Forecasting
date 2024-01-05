@@ -6,5 +6,6 @@ This repository contains a small project trying to predict the evolution of the 
 
 ## Files in the Repository
 **Preprocessing-FirstModels.ipynb:** Contains the first analysis and preprocessing of the data. Contains as well some first predictive models using feedforward neural networks.
+
 **Models-Case-Hospitalizations-Deaths.ipynb:** Contains the predictive models at 1, 3, and 5 weeks for the cases of hospitalizations and deaths. The first models only consider the previous weeks' COVID cases, while others integrate as well information about government restrictions, masks, and mean temperature of the month. 
 
